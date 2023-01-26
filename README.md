@@ -1,26 +1,20 @@
 <p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/arcxingye/EatKano/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
+  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/GAO9116/Eat_Kun_Kun/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="Eat_Kun_Kun"></a>
 </p>
 <div align="center">
 
-# EatKano
+# Eat_Kun_Kun
 
-_🦌 网页小游戏 🥛_
+_🏀 网页小游戏 🏀_
 
 </div>
 
 
 ## 简介
 
-小游戏：吃掉小鹿乃
+小游戏：吃掉坤坤
 
-[English](README_EN.md)
-|
-[鹿乃b站](https://space.bilibili.com/316381099)
-|
-[线上版本](https://xingye.me/game/eatkano/index.php)
-|
-[Github Pages](https://arcxingye.github.io/EatKano/index.html)
+
 
 ## 可选功能
 
